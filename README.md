@@ -22,5 +22,5 @@
 
 [website]: https://appolinario.com
 [twitter]: https://twitter.com/vappolinario
-[linkedin]: https://linkedin.com/in/vappolinario
+[linkedin]: https://linkedin.com/in/vitorappolinario
 
