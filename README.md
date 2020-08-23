@@ -17,7 +17,7 @@
 
 ---
 
-<img align="left" alt="vappolinario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vappolinario&show_icons=true&hide_border=true" />
+<img align="left" alt="vappolinario's Github Stats" src="https://github-readme-stats-qvvf66b1c.vercel.app/api?username=vappolinario&show_icons=true&hide_border=true" />
 
 
 [website]: https://appolinario.com
